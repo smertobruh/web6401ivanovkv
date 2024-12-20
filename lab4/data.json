@@ -1,0 +1,18 @@
+{
+    "/f90-table": {
+        "get": {
+            "data": [
+                {
+                    "model" : "m5f90",
+                    "power" : "635 л.с.",
+                    "max-speed" : "305 км/ч",
+                    "acceleration": "3.0 с",
+                    "length" : "4563 мм",
+                    "width" : "2126 мм",
+                    "heigth" : "1468 мм"
+                }
+                
+            ]
+        }
+    }
+}
